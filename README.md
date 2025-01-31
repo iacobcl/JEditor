@@ -39,4 +39,4 @@ Here is another preview showing some more features of the JEditor.
 
 ![p1](https://github.com/musaeed/JEditor/raw/master/preview1.png)
 
-For any feedback / suggestions or issues compiling / running the software, please contact me at muhammad.omar555 [at] gmail . com
+For any feedback or issues compiling / running the software, please contact me at muhammad.omar555 [at] gmail . com
