@@ -28,6 +28,7 @@ public class MainClassEditor {
 		       }
 		  });
 
+		System.out.println("Closing app");
 	}
 
 }
