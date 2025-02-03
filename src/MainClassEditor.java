@@ -14,6 +14,7 @@ public class MainClassEditor {
 		
 		System.out.println("Starting app...");
 		
+		
 		new StartService(args);
 		
 		EventQueue.invokeLater(new Runnable()
